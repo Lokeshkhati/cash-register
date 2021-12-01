@@ -117,6 +117,7 @@ td {
 
 footer {
   text-align: center;
+
 }
 
 footer p {
@@ -135,6 +136,6 @@ li {
 }
 
 img {
-  width: 40px;
-  padding: 0.2rem;
+  width: 80px;
+  padding: 1rem;
 }
